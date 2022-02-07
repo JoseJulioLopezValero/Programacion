@@ -1,0 +1,5 @@
+package Entregable;
+
+public enum CIUDADES {
+    SEVILLA,HUELVA,CADIZ,CORDOBA,JAEN,MALAGA,GRANADA,ALMERIA
+}
